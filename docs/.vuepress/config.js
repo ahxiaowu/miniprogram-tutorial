@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   title: '微信小程序入门教程',
-  description: '微信小程序入门教程',
+  description: '一份伪官方文档',
   port: 8080,
   themeConfig: {
     repo: 'lipengzhou/miniprogram-tutorial',
@@ -14,7 +14,16 @@ module.exports = {
     ],
     sidebar: {
       '/guide/': [
+        'introduction',
+        'getting-started',
+        'structure-config',
+        'component',
+        'wxss.md',
+        'app-service',
+        'wxml-syntax',
+        'api'
       ]
-    }
+    },
+    sidebarDepth: 2
   }
 }

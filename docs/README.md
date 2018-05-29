@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /weapp-banner3.png
 actionText: 开始 →
-actionLink: /guide/
+actionLink: /guide/introduction
 footer: MIT Licensed | Copyright © 2018-present lpz
 ---
