@@ -10,7 +10,8 @@ module.exports = {
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页',
     nav: [
-      { text: '基础', link: '/guide/' }
+      { text: '基础', link: '/guide/' },
+      { text: 'Wepy', link: '/wepy/' }
     ],
     sidebar: {
       '/guide/': [
