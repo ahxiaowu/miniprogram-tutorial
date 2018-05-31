@@ -12,7 +12,7 @@
 
 - 一个组件通常包括`开始标签`和`结束标签`，`属性`用来修饰这个组件，`内容`在两个标签之内。
 
-  ```
+  ```html
   <tagname property="value">
     Content goes here ...
   </tagname>
