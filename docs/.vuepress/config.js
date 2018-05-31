@@ -22,7 +22,8 @@ module.exports = {
         'wxss.md',
         'app-service',
         'wxml-syntax',
-        'api'
+        'api',
+        'framework'
       ]
     },
     sidebarDepth: 2
